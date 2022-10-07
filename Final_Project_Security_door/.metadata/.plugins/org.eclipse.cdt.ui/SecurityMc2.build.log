@@ -1,0 +1,20 @@
+22:30:35 **** Incremental Build of configuration Debug for project SecurityMc2 ****
+make all 
+Invoking: Print Size
+avr-size --format=avr --mcu=atmega16 SecurityMc2.elf
+AVR Memory Usage
+----------------
+Device: atmega16
+
+Program:   11562 bytes (70.6% Full)
+(.text + .data + .bootloader)
+
+Data:         47 bytes (4.6% Full)
+(.data + .bss + .noinit)
+
+
+Finished building: sizedummy
+ 
+
+22:30:36 Build Finished. 0 errors, 0 warnings. (took 502ms)
+

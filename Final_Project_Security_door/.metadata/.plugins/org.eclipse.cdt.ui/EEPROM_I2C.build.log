@@ -1,0 +1,18 @@
+17:49:20 **** Incremental Build of configuration Debug for project EEPROM_I2C ****
+make all 
+Building file: ../external_eeprom.c
+Invoking: AVR Compiler
+avr-gcc -Wall -g2 -gstabs -O0 -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -std=gnu99 -funsigned-char -funsigned-bitfields -mmcu=atmega16 -DF_CPU=8000000UL -MMD -MP -MF"external_eeprom.d" -MT"external_eeprom.o" -c -o "external_eeprom.o" "../external_eeprom.c"
+In file included from ../micro_config.h:22,
+                 from ../i2c.h:17,
+                 from ../external_eeprom.c:12:
+c:/winavr-20100110/lib/gcc/../../avr/include/util/delay.h:90:3: warning: #warning "Compiler optimizations disabled; functions from <util/delay.h> won't work as designed"
+../external_eeprom.c: In function 'eeprom_Wrirte_String':
+../external_eeprom.c:94: error: too few arguments to function 'EEPROM_writeByte'
+../external_eeprom.c: In function 'eeprom_Read_String':
+../external_eeprom.c:103: error: too few arguments to function 'EEPROM_readByte'
+../external_eeprom.c:107: error: too few arguments to function 'EEPROM_readByte'
+make: *** [external_eeprom.o] Error 1
+
+17:49:21 Build Failed. 4 errors, 1 warnings. (took 641ms)
+

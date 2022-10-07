@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="E:\Embeded System\Embedded Dibloma 33\Final_Project_Ahmed_Sobhy\Secitity_door_system 6-2-2019_done\Final_Project_Security_door"/>
+		<item value="E:\Embeded System\Test_EEprom\Internal_eeprom_avr\Internal_eeprom_avr"/>
+		<item value="E:\Embeded System\Embedded Dibloma 33\5- Interface II\7.Keypad and LCD\Keypad_LCD_Eclipse_Exercises\Exercise2"/>
+		<item value="E:\Embeded System\Source\Password-Based-Security-Door-Lock-using-Atmega16-microcontrollers-master\Password-Based-Security-Door-Lock-using-Atmega16-microcontrollers-master"/>
+		<item value="E:\Embeded System\Embedded Dibloma 33\5- Interface II\10.USART\UART_Eclipse_Exercises\Exercise3_MC2"/>
+		<item value="E:\Embeded System\Embedded Dibloma 33\5- Interface II\10.USART\UART_Eclipse_Exercises\Exercise3_MC1"/>
+		<item value="E:\Embeded System\Test_EEprom\External_EEPROM\I2C_Eclipse_Exercises\EEPROM_I2C"/>
+		<item value="E:\Embeded System\Test_EEprom\External_EEPROM"/>
+		<item value="E:\Embeded System\Source\Password-Based-Security-Door-Lock-using-Atmega16-microcontrollers-master"/>
+		<item value="E:\Embeded System\Password-Based-Security-Door-Lock-using-Atmega16-microcontrollers-master\Password-Based-Security-Door-Lock-using-Atmega16-microcontrollers-master\SecurityMc2"/>
+		<item value="E:\Embeded System\Password-Based-Security-Door-Lock-using-Atmega16-microcontrollers-master\Password-Based-Security-Door-Lock-using-Atmega16-microcontrollers-master\SecurityMc1"/>
+		<item value="E:\Embeded System\Embedded Dibloma 33\Final_Project_Ahmed_Sobhy\Final_Project_Security_door\Security_door_MC1"/>
+		<item value="E:\Embeded System\Test_EEprom\12.I2C\I2C_Eclipse_Exercises"/>
+		<item value="E:\Embeded System\Embedded Dibloma 33\Final_Project_Ahmed_Sobhy\Final_Project_Security_door\Security_door_MC2"/>
+		<item value="E:\Embeded System\Password-Based-Security-Door-Lock-using-Atmega16-microcontrollers-master\Password-Based-Security-Door-Lock-using-Atmega16-microcontrollers-master"/>
+		<item value="E:\Embeded System\Embedded Dibloma 33\Final_Project_Ahmed_Sobhy\Final_Project_Security_door"/>
+	</list>
+	<section name="NewWizardAction">
+	</section>
+</section>
